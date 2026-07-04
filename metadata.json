@@ -1,0 +1,6 @@
+{
+  "name": "¿Por qué no vendiste hoy?",
+  "description": "Un diagnóstico completamente irresponsable de tu desempeño comercial con humor absurdo y logros interactivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
